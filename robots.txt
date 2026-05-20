@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielatafurartista.github.io/performadora/sitemap.xml
